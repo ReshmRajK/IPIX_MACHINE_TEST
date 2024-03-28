@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+
+           <!-- ECOMMERCE WEBSITE -->
+    ------------------------------------ 
+
+    1.React Bootstrap is used for e_cart designing.
+    2.Redux toolkit is used for fetch category,product list,single view,user apis.
+    3.productSlice is used for to fetch all Products.
+    4.singleProductSlice is used for to fetch single view.
+    5.userSlice is used for to fetch user details.
+    6.categorySlice is used for to fetch category.
+    7.categorySliceProductList is used for to fetch all the product of particular category.
+    8.cartSlice is used for to add count in cart when click on AddToCart button.
+    9.productDetails is used for to fetch detailed informations of particular product when click on product in the product list page.
+    9.AOS animation is used for styling.
+    10.External css file and inline css are used for to design components.
+    11.Two folder is available ,one for header and footer component and other one is used for to define athor pages like ProductList,ProductDetailsList etc.
+    11.We can do search in this page also.
+    12.Card is used for to display fetched details.
+    13.ProductList is the landing page here.
+    14.Category is displayed on ProductList Page,when click on these category it's go display all the product of particular category.
+    15.offcanvas is used in view By icon,which is available on navbar. 

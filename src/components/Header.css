@@ -1,0 +1,25 @@
+.header_section{
+    background-color: gold;
+}
+.nav_icon{
+    /* font-size: 2rem; */
+}
+.nav_title{
+    font-size: 2.5rem;
+    font-family: "DM Serif Display", serif;
+    cursor: pointer;
+}
+.van_link{
+    font-family: "DM Serif Display", serif;
+    font-size: 1.5rem; 
+}
+
+.offcanvas_content{
+    color: orange;
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-family: "DM Serif Display", serif;
+}
+.offcanvas_content:hover{
+    background-color:black;
+}
